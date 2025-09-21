@@ -7,11 +7,7 @@ The program is also able to display the current x and y velocities.
 commands:
 
 in order to change velocity: push joystick in desired direction
-
 in order to get a set of commands: call ./scroll with -h
-
 in order to change color: call ./scroll with -c COLOR where COLOR is "white","red","green", or "blue"
-
 in order to change the rotation: call ./scroll with -r DEGREES, where degrees is 0, 90, 180, or 270
-
 in order to constantly print the velocities of x and y: call ./scroll with -p
