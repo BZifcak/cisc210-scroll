@@ -1,0 +1,10 @@
+void open_display(void);
+void display_letter(char letter, int xOffset, int yOffset);
+void clear_display(void);
+void close_display(void);
+void open_input(void);
+void check_input(void (*callback)(unsigned int code), int delay);
+void close_input(void);
+void change_color(char *color);
+void change_rotate(int newR);
+void change_velocity_print(void);
