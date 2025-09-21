@@ -1,4 +1,4 @@
-# cisc210-scroll
+# Pixel Scroll
 How the program works:
 This program displays my first and last initials (B and Z). 
 The letter will move in the direction that you push the joystick at a velocity that increases by 1 pixel per second in each press. The letters can be displayed in different colors and at different rotations. 
