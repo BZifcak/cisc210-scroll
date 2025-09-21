@@ -4,7 +4,8 @@ This program displays my first and last initials (B and Z).
 The letter will move in the direction that you push the joystick at a velocity that increases by 1 pixel per second in each press. The letters can be displayed in different colors and at different rotations. 
 The program is also able to display the current x and y velocities.
 
-commands: 
+commands:
+
 in order to change velocity: push joystick in desired direction
 
 in order to get a set of commands: call ./scroll with -h
